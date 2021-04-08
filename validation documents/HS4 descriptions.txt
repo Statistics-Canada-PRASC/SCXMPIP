@@ -1,0 +1,1417 @@
+0101	Horses, asses, mules and hinnies, live
+0102	Bovine animals, live
+0103	Swine, live
+0104	Sheep and goats, live
+0105	Chickens, ducks, geese, turkeys, and guineas, live
+0106	Animals, live, nesoi Nesoi - not elsewhere specified of indicated.
+0201	Meat of bovine animals, fresh or chilled
+0202	Meat of bovine animals, frozen
+0203	Meat of swine (pork), fresh, chilled or frozen
+0204	Meat of sheep or goats, fresh, chilled or frozen
+0205	Meat of horses, asses, mules, hinnies fr, chld, fz
+0206	Ed offal, bovine, swine, sheep, goat, horse, etc.
+0207	Meat & ed offal of poultry, fresh, chill or frozen
+0208	Meat & edible offal nesoi, fresh, chilled or frozen
+0209	Pig & poultry fat fresh chld frzn salted dried smkd
+0210	Meat & ed offal salted, dried etc. & flour & meal
+0301	Fish, live
+0302	Fish, fresh or chilled (no fillets or other meat)
+0303	Fish, frozen (no fish fillets or other fish meat)
+0304	Fish fillets & other fish meat, fresh, chill or froz
+0305	Fish, dried, salted etc, smoked etc, ed fish meal
+0306	Crustaceans, live, fresh etc, and cooked etc.
+0307	Molluscs & aquatic invertebrates nesoi, live etc
+0401	Milk and cream, not concentrated or sweetened
+0402	Milk and cream, concentrated or sweetened
+0403	Buttermilk, yogurt, kephir etc, flavored etc or not
+0404	Whey & milk products nesoi, flavored etc. or not
+0405	Butter and other fats and oils derived from milk
+0406	Cheese and curd
+0407	Birds' eggs, in the shell, fresh, preserved or cooked
+0408	Birds' eggs, not in shell & yolks, fresh, dry, etc
+0409	Honey, natural
+0410	Edible products of animal origin, nesoi
+0501	Human hair, unworked and waste of human hair
+0502	Hogs' hair etc, badger hair etc, waste hair etc.
+0503	Horsehair and horsehair waste
+0504	Animal (not fish) guts, bladders, stomachs & parts
+0505	Bird skins & other feathered parts and down
+0506	Bones & horn cores, unworked etc, powder & waste
+0507	Ivory, tortoise-shell, whalebone, horns etc, unwrk
+0508	Coral, shell of molluscs etc unworked powder/waste
+0509	Natural sponges of animal origin
+0510	Ambergris, castoreum etc, glands etc for pharmacy
+0511	Animal products nesoi, dead animals, inedible etc.
+0601	Bulbs, tubers etc, chicory plants & roots nesoi
+0602	Live plants nesoi, cuttings etc., mushroom spawn
+0603	Cut flowers & buds for bouquet etc., prepared
+0604	Foliage, grasses etc for bouquets etc, prepared
+0701	Potatoes (except sweet potatoes), fresh or chilled
+0702	Tomatoes, fresh or chilled
+0703	Onions, shallots, garlic, leeks etc, fr or chilled
+0704	Cabbages, cauliflower, kale etc, fresh or chilled
+0705	Lettuce and chicory, fresh or chilled
+0706	Carrots, turnips & other edible roots, fr or chill
+0707	Cucumbers and gherkins, fresh or chilled
+0708	Leguminous vegetables, shelled or not, fr or chill
+0709	Vegetables nesoi, fresh or chilled
+0710	Vegetables (raw or cooked by steam etc), frozen
+0711	Vegetables, temporarily preserved, not now edible
+0712	Vegetables, dried, whole, cut etc., no added prep
+0713	Leguminous vegetables, dried shelled
+0714	Cassava arrowroot etc fresh or dry: sago pith
+0801	Coconuts, brazil nuts & cashew nuts, fresh or dry
+0802	Nuts nesoi, fresh or dried
+0803	Bananas and plantains, fresh or dried
+0804	Dates, figs, pineapples, avocados etc, fr or dried
+0805	Citrus fruit, fresh or dried
+0806	Grapes, fresh or dried
+0807	Melons and papayas, fresh
+0808	Apples, pears and quinces, fresh
+0809	Apricots, cherries, peaches, plums & sloes, fresh
+0810	Fruit nesoi, fresh
+0811	Fruit & nuts (raw or cooked by steam etc), frozen
+0812	Fruit & nuts temporarily preserved, not now edible
+0813	Fruit dried nesoi, mixtures of nuts or dried fruit
+0814	Peel, citrus or melon, fresh, frzn, dried, provsl pres
+0901	Coffee, coffee husks etc, substitutes with coffee
+0902	Tea
+0903	Mate
+0904	Pepper, genus piper, genus capsicum or pimenta
+0905	Vanilla beans
+0906	Cinnamon and cinnamon-tree flowers
+0907	Cloves (whole fruit, cloves and stems)
+0908	Nutmeg, mace and cardamoms
+0909	Seeds, anise, badian, fennel, coriander, cumin etc
+0910	Ginger, saffron, tumeric, thyme, bay leaves etc
+1001	Wheat and meslin
+1002	Rye in the grain
+1003	Barley
+1004	Oats
+1005	Corn (maize)
+1006	Rice
+1007	Grain sorghum
+1008	Buckwheat, millet & canary seed, cereals nesoi
+1101	Wheat or meslin flour
+1102	Cereal flours, except of wheat or of meslin
+1103	Cereal groats, meal and pellets
+1104	Cereal grains, worked etc nesoi, cereal germs, wrk
+1105	Flour, meal and flakes of potatoes
+1106	Flour & meal of dry, legum vegs, sago, fruit etc.
+1107	Malt, whether or not roasted
+1108	Starches, inulin
+1109	Wheat gluten, whether or not dried
+1201	Soybeans, whether or not broken
+1202	Peanuts (ground-nuts), raw
+1203	Copra
+1204	Flaxseed (linseed), whether or not broken
+1205	Rape or colza seeds, whether or not broken
+1206	Sunflower seeds, whether or not broken
+1207	Oil seeds & oleaginous fruits nesoi, broken or not
+1208	Flour & meal of oil seed & olea fruit (no mustard)
+1209	Seeds, fruit and spores, for sowing
+1210	Hop cones, fresh or dried, lupulin
+1211	Plants etc for pharmacy, perfume, insecticides etc
+1212	Locust beans, seaweed, s beet & cane: fruit pits etc.
+1213	Cereal straw & husks unprep w/n chop etc or pellet
+1214	Rutabagas, hay, clover & other forage products
+1301	Lac, natural gums, resins, gum-resins and balsams
+1302	Veg saps & extracts: pectates etc: agar-agar etc.
+1401	Vegetable plaiting materials (bamboos, reeds etc.)
+1402	Veg materials (kapok etc) for stuffing or padding
+1403	Veg materials (broom corn etc) for brooms & brushes
+1404	Vegetable products nesoi
+1501	Lard, other pig fat and poultry fat, rendered
+1502	Fats, bovine, sheep or goat, raw or rendered
+1503	Lard stearin/lard oil/etc not emulsified or preprd
+1504	Fats & oils, their fractions, fish & marine mammal
+1505	Wool grease & fatty substances derived therefrom
+1506	Animal fat & oil & reaction nesoi not chem modified
+1507	Soybean oil & its fractions, not chemically modified
+1508	Peanut oil & its fractions, not chemically modified
+1509	Olive oil & its fractions, not chemically modified
+1510	Olive-residue oil & blends (1509 & 1510) not chem mod
+1511	Palm oil & its fractions, not chemically modified
+1512	Sunflower-seed, safflower or cottonseed oil, not ch mod
+1513	Coconut, palm kernel or babassu oil etc, not ch mod
+1514	Rapeseed, colza or mustard oil etc, not chem modif
+1515	Fixed veg fats & oils nesoi etc, not chem modified
+1516	An or veg fats & oils, hydrogen etc, not fur prep
+1517	Margarine, edible mixtures etc an or veg fat & oil
+1518	Animal/veg fats & oils chem modified, inedbl mxt etc
+1519	Ind monocarb fat acids, acid oil, ref, ind fat alc
+1520	Glycerol (glycerine), glycerol waters and lyes
+1521	Veg waxes nesoi, beeswax etc and spermaceti
+1522	Degras, residues from fatty substances/animal/veg waxs
+1601	Sausages, similar prdt meat etc food prep of these
+1602	Prepared or preserved meat, meat offal & blood nesoi
+1603	Extracts etc. of meat, fish, crustaceans, etc.
+1604	Prep or pres fish, caviar & caviar substitutes
+1605	Crustaceans molluscs etc prepared or preserved
+1701	Cane or beet sugar & chem pure sucrose, solid form
+1702	Sugars nesoi, incl chem pure lactose etc, caramel
+1703	Molasses from the extraction or refining of sugar
+1704	Sugar confection (incl white chocolate), no cocoa
+1801	Cocoa beans, whole or broken, raw or roasted
+1802	Cocoa shells, husks, skins and other cocoa waste
+1803	Cocoa paste, defatted or not
+1804	Cocoa butter, fat and oil
+1805	Cocoa powder, not sweetened
+1806	Chocolate & other food products containing cocoa
+1901	Malt ext, food prep of flour etc un 50% cocoa etc
+1902	Pasta, prepared or not, couscous, prepared or not
+1903	Tapioca and substitutes from starch in flakes, etc
+1904	Foods prep by swell cereal, cereal nesoi, grain fm
+1905	Bread, pastry cakes etc: comm wafers, empty caps etc
+2001	Veg, fruit, nuts etc, prep or pres by vinegar etc
+2002	Tomatoes prepared or preserved nesoi
+2003	Mushrooms and truffles prepared or preserved nesoi
+2004	Vegetables nesoi prepared or preserved nesoi, frozen
+2005	Vegetables nesoi prepared etc nesoi, not frozen
+2006	Fruit/nuts/fruit-peel etc, preserved by sugar
+2007	Jams, fruit jellies, marmalades etc, cooked
+2008	Fruit, nuts etc prepared or preserved nesoi
+2009	Fruit juices (& grape must) & veg juice, no spirit
+2101	Extracts etc of coffee, tea or mate, roast chicory
+2102	Yeasts, dead sing-cell micro-org nesoi, baking powder
+2103	Sauces & prep,mixed condiments, mustard flour etc
+2104	Soups, broths & preps, homogenized comp food preps
+2105	Ice cream and other edible ice, with cocoa or not
+2106	Food preparations neso
+2201	Waters, natural etc, not sweetened etc, ice & snow
+2202	Waters, sweetened etc & other nonalc beverages nesoi
+2203	Beer made from malt
+2204	Wine of fresh grapes, grape must nesoi
+2205	Vermouth & other wine of fresh grapes spec flavored
+2206	Fermented beverages nesoi (cider, berry, mead etc)
+2207	Ethyl alcohol, undenat, n/un 80% alc, alcohol, denat
+2208	Ethyl alcohol, undenat, und 80% alc, spirit bev etc
+2209	Vinegar & substitutes for vinegar from acetic acid
+2301	Flour, meal etc of meat etc, not for human: greavs
+2302	Bran, sharps etc from working cereals & leg plants
+2303	Residues of starch mfr or sugar mfr or brewing etc
+2304	Soybean oilcake & other solid residue, wh/not ground
+2305	Peanut oilcake & other solid residue, wh/not ground
+2306	Oilcake etc nesoi, from veg fats & oils nesoi
+2307	Wine lees, argol
+2308	Veg material, waste etc for feeding animals nesoi
+2309	Preparations used in animal feeding
+2401	Tobacco, unmanufactured, tobacco refuse
+2402	Cigars, cigarettes etc., of tobacco or substitutes
+2403	Tobacco & tobacco subst mfrs nesoi, tob proces etc
+2501	Salt incl table & dentrd, pure sodium chloride
+2502	Unroasted iron pyrites
+2503	Sulfur of all kinds nesoi
+2504	Natural graphite
+2505	Natural sands of all kinds, except metal-bearing
+2506	Quartz (other than natural sands), quartzite
+2507	Kaolin and other kaolinic clays, incl calcined
+2508	Clays nesoi, andalusite, kyanite etc, mullite etc
+2509	Chalk
+2510	Natural calcium (inc alum cal) phosp & phosp chalk
+2511	Natural barium sulfate, nat barium carbonate nesoi
+2512	Siliceous fossil meals & earths w spec grav of 1 or less
+2513	Pumice, emery, natural corundum and garnet etc
+2514	Slate, crude or roughly trimmed
+2515	Marble, travertine etc. and alabaster, crude etc.
+2516	Granite, porphyry, basalt etc., crude or cut etc.
+2517	Pebbles, gravel etc, macadam of slag, dross etc.
+2518	Dolomite, calcined or not, roughly trimmed etc.
+2519	Magnesite, fused magnesia, d-b magn, m oxide nesoi
+2520	Gypsum, anhydrite, plasters (cal gypsm or sulfate)
+2521	Limestone flux, lmstn & oth cal sto usd mfr lime, cement
+2522	Quicklime, slaked lime and hydraulic lime
+2523	Portland cement, aluminous cement, slag cement etc
+2524	Asbestos
+2525	Mica, including splittings, mica waste
+2526	Natural steatite, roughly trimmed etc, talc
+2527	Natural cryolite, natural chiolite
+2528	Natural borates & conc, natural boric acid n/ov 85%
+2529	Feldspar, leucite, nepheline, & syenite, fluorspar
+2530	Mineral substances nesoi
+2601	Iron ores & concentrates, including roast pyrites
+2602	Manganese ores & concentrates inc mangnfrs iron ores
+2603	Copper ores and concentrates
+2604	Nickel ores and concentrates
+2605	Cobalt ores and concentrates
+2606	Aluminum ores and concentrates
+2607	Lead ores and concentrates
+2608	Zinc ores and concentrates
+2609	Tin ores and concentrates
+2610	Chromium ores and concentrates
+2611	Tungsten ores and concentrates
+2612	Uranium or thorium ores and concentrates
+2613	Molybdenum ores and concentrates
+2614	Titanium ores and concentrates
+2615	Niobium, tantalum, vanadium & zirconium ore & conc
+2616	Precious metal ores and concentrates
+2617	Ores and concentrates nesoi
+2618	Granulated slag from iron or steel manufacture
+2619	Slag, dross, scalings & other waste from manu iron/steel
+2620	Ash & residues (not from iron etc mfr) with metal cont
+2621	Ash and slag nesoi, including seaweed ash (kelp)
+2701	Coal, briquettes, ovoids etc, mfr from coal
+2702	Lignite, agglomerated or not, excluding jet
+2703	Peat (including peat litter), incl agglomrtd
+2704	Coke etc of coal, lignite or peat, retort carbon
+2705	Coal gas, water gas, prdcr gas etc, ex pet gs & othgs
+2706	Mineral tars, including reconstituted tars
+2707	Oils etc from high temp coal tar, sim aromatic etc
+2708	Pitch & pitch coke from coal tar or other min tars
+2709	Crude oil from petroleum and bituminous minerals
+2710	Oil (not crude) from petrol & bitum mineral etc,
+2711	Petroleum gases & other gaseous hydrocarbons
+2712	Petroleum jelly, mineral waxes & similar products
+2713	Petroleum coke, petroleum bitumen & other residues
+2714	Bitumen & asphalt, natural, shale & tar sands etc.
+2715	Bit mixture from nat asph, nat bit, pet bit, min tar or pt
+2716	Electrical energy
+2801	Fluorine, chlorine, bromine & iodine
+2802	Sulfur, sublimed or precipitated, collodial sulfur
+2803	Carbon, nesoi (including carbon black)
+2804	Hydrogen, rare gases and other nonmetals
+2805	Alkali metals etc, rare-earth metals etc, mercury
+2806	Hydrogen chloride, chlorosulfuric acid
+2807	Sulfuric acid, oleum
+2808	Nitric acid, sulfonitric acids
+2809	Diphosphorus pentaoxide, phosphoric acid etc
+2810	Oxides of boron, boric acids
+2811	Inorganic acids & inorganic oxy nonmet comp nesoi
+2812	Halides & halide oxides of nonmetals
+2813	Sulfides of nonmetals, commercial phosp trisulfide
+2814	Ammonia, anhydrous or in aqueous solution
+2815	Sodium hydrox, potass hydrox sod or potass perox
+2816	Hydrox etc of magnesium, oxides etc strontium etc
+2817	Zinc oxide and zinc peroxide
+2818	Aluminum oxide (incl art corundum), alum hydroxide
+2819	Chromium oxides and hydroxides
+2820	Manganese oxides
+2821	Iron oxides & hydroxides, earth colors n/un 70% iron
+2822	Cobalt oxide & hydroxide, commercial cobalt oxides
+2823	Titanium oxides
+2824	Lead oxides, red lead and orange lead
+2825	Hydrazine etc, other inorg bases, metal oxides etc
+2826	Fluorides, fluorosilicates, fluoroaluminates etc
+2827	Chlorides etc, bromides etc, iodides etc.
+2828	Hypochlorites etc, chlorites, hypobromites
+2829	Chlorates etc, bromates etc, iodates etc.
+2830	Sulfides, polysulfides
+2831	Dithionites and sulfoxylates
+2832	Sulfites, thiosulfates
+2833	Sulfates, alums, peroxosulfates (per sulfates)
+2834	Nitrites, nitrates
+2835	Phosphinates, phosphonates, phosphates & polyphosp
+2836	Carbonates, peroxocarbonates, comm amm carbonate
+2837	Cyanides, cyanide oxides and complex cyanides
+2838	Fulminates, cyanates and thiocyanates
+2839	Silicates, commercial alkali metal silicates
+2840	Borates, peroxoborates
+2841	Salts of oxometallic or peroxometallic acids
+2842	Salts of inorganic acids or peroxoacids nesoi
+2843	Colloidal prec metal, prec metal comp & amalgams
+2844	Radioactive chemical elements & isotopes etc.
+2845	Stable isotopes and compounds thereof
+2846	Rare-earth metal compounds of yttrium or scandium
+2847	Hydrogen peroxide, whether/not solidified w/ urea
+2848	Phosphides, excluding ferrophosphorus
+2849	Carbides
+2850	Hydrides, nitrides, azides, silicides & borides
+2851	Inorganic compounds nesoi: liq air: amalgams nesoi
+2901	Acyclic hydrocarbons
+2902	Cyclic hydrocarbons
+2903	Halogenated derivatives of hydrocarbons
+2904	Hydrocarbon derivatives, sulfonated, nitrated etc
+2905	Acyclic alcohols & halogenat, sulfonatd etc derivs
+2906	Cyclic alcohols & halogenatd, sulfonatd etc derivs
+2907	Phenols, phenol-alcohols
+2908	Phenol or phenol-alcohol deriv, halog, sulf etc
+2909	Ethers, ether-alcohols, alcohol peroxides etc.
+2910	Epoxides with a 3 memb ring & halog, sulfon etc
+2911	Acetals and hemiacetals with or w/o other oxy func
+2912	Aldehydes, its cyclic polymers, paraformaldehyde
+2913	Halogenated, sulfonated etc der of aldehyde compounds
+2914	Ketones & quinones & halogenatd, sulfonatd der etc
+2915	Sat acyclic nonocarbox acid & anhyd, halogen etc
+2916	Unsat acyclic & cyclic monocarbox acid & anhyd etc
+2917	Polycarboxylic acids & anhyd etc, halog, sulf etc
+2918	Carboxylic acid, added oxygen & anhy etc, hal etc
+2919	Phosphoric esters & salts, lactophosphates etc.
+2920	Esters of inorg acids & salts, their halog etc der
+2921	Amine-function compounds
+2922	Oxygen-function amino-compounds
+2923	Quaternary ammonium salts etc, lecithins etc.
+2924	Carboxyamide-function comp, amide-function com etc
+2925	Carboxyimide-function comp, imine-function com etc
+2926	Nitrile-function compounds
+2927	Diazo-, azo-, or azoxy-compounds
+2928	Organic derivatives of hydrazine or hydroxylamine
+2929	Nitrogen function compounds nesoi
+2930	Organo-sulfur compounds
+2931	Organo-inorganic compounds nesoi
+2932	Heterocyclic compounds, oxygen hetero-atom(s) only
+2933	Heterocyclic comp, nit hetero-atom, nucleic acids
+2934	Heterocyclic compounds nesoi
+2935	Sulfonamides
+2936	Provitamins and vitamins & derivatives & intermixs
+2937	Hormones, derivatives & steroids used as hormones
+2938	Glycosides, natural or synth & salts, ethers etc.
+2939	Veg alkaloids, nat or synth & salts, ethers etc.
+2940	Sugars, chem pure (except sucrose, lactose, fructose)
+2941	Antibiotics
+2942	Organic compounds nesoi
+3001	Glands etc dry & ext, heparin, hum etc subst nesoi
+3002	Human blood, animal blood, antisera, vaccines etc
+3003	Medicaments nesoi of mixtures, not dosage etc form
+3004	Medicaments nesoi, mixed or not, in dosage etc fm
+3005	Bandages etc coated etc or in retail medic etc fm
+3006	Pharmaceutical goods (specified sterile prod etc.)
+3101	Animal/veg fertilizer, mixed/not/chemically treated
+3102	Mineral or chemical fertilizers, nitrogenous
+3103	Mineral or chemical fertilizers, phosphatic
+3104	Mineral or chemical fertilizers, potassic
+3105	M or ch fertilizer, n/un2of3el, fert nesoi, fert pack
+3201	Tanning ext of veg origin, tannins & its salts etc
+3202	Syn org & inorg tanning subst, tan prep, enz prep
+3203	Coloring matter of vegetable or animal origin
+3204	Syn org coloring matter & prep, syn org brit agent
+3205	Color lakes, preparations based on color lakes
+3206	Coloring matter nesoi, coloring prep nesoi, etc.
+3207	Prep pigments etc for ceramic etc indust, frit etc
+3208	Paint & varnish from synth etc polymers nonaq, etc
+3209	Paint & varnish from synth etc polymers aqueous md
+3210	Paints & varnishes nesoi, water pigments for leather
+3211	Prepared driers
+3212	Pigments nonaq liquid etc for paint, st foil, dye etc
+3213	Artist colors etc in tablets, tubes, jars etc.
+3214	Glaziers putty, resin cements, caulking comps etc
+3215	Ink, printing, writing, drawing etc, concen or not
+3301	Essential oils, resinoids, terpenic by-products etc
+3302	Odoriferous mixtures as raw materials for industry
+3303	Perfumes and toilet waters
+3304	Beauty, make-up & skin-care prep, manicure etc prp
+3305	Preparations for use on the hair
+3306	Preparations for oral or dental hygiene
+3307	Personal toilet etc prep nesoi, shaving, bath etc.
+3401	Soap, organic surf-act prep for soap use, bars etc
+3402	Organic surf-act agents, preps & cleaning preps
+3403	Lubricating preps, antirust & treating textiles etc
+3404	Artificial and prepared waxes
+3405	Polishes & creams for leather, wood etc, scour prp
+3406	Candles, tapers and the like
+3407	Modeling pastes for child etc, dental impr comp etc
+3501	Casein, caseinates and other casein derivatives
+3502	Albumins and albumin derivatives
+3503	Gelatin & deriv, isinglass, glues, animal or nesoi
+3504	Peptones, other proteins & deriv etc, hide powder
+3505	Dextrins etc, glues based on starches, dextrin etc
+3506	Prepared glues & adhesives nesoi, glue retail pack
+3507	Enzymes, prepared enzymes nesoi
+3601	Propellant powders
+3602	Prepared explosives other than propellent powders
+3603	Safety fuses, detonating fuse, percussion caps etc
+3604	Fireworks, signalling flares, rain rockets etc.
+3605	Matches, except pyrotechnic articles
+3606	Ferrocerium & other pyrophoric alloys, etc.
+3701	Photo plates & film, flat, sensitized, unexposed
+3702	Photo film in rolls sensitized, unexposed
+3703	Photo paper, paperboard & textiles, sens, unexposed
+3704	Photo plates, film, paper, etc, exposed, not develop
+3705	Photo plates & still film, exposed & developed
+3706	Motion-picture film, exposed and developed
+3707	Photographic chemicals, unmixed prod retail packed
+3801	Artificial graphite, collodial graphite & prep etc
+3802	Activated carbon etc., animal black, inc spent
+3803	Tall oil, whether or not refined
+3804	Residual lyes from wood pulp mfr (except tall oil)
+3805	Turpentine etc, crude dipentene, pine oil etc
+3806	Rosin & resin acids etc, rosin spirit etc, run gum
+3807	Wood tar, vegetable pitch etc & similar preps
+3808	Insecticides, rodenticides, fungicides etc, retail
+3809	Finishing agents etc for textiles, paper etc nesoi
+3810	Pickling preps for metal, soldering etc powder etc
+3811	Antiknock preps & other additives for mineral oils (including gasoline) or for other liquids used for the same purposes as mineral oils
+3812	Prepared rubber accelerators, compound plasticizers nesoi and antioxidizing preparations and other compound stabilizers for rubber or plastics
+3813	Prep & charges for fire-extinguishers etc
+3814	Organic composite solvents & thinners, nesoi
+3815	Reaction initiators & acceler & catalytic prep nesoi
+3816	Refractory cements, mortars, concretes, etc. nesoi
+3817	Mixed alkylbenzenes & mixed alkylnaphthalene nesoi
+3818	Chem elem doped, used in electron, discs wafers et
+3819	Hydraulic brake fluids/liq for hydraulic trans etc
+3820	Antifreezing preparations & prepared deicing fluids
+3821	Prepared culture media for devel of microorganisms
+3822	Composite diagnostic/lab reagents, except pharmaceutical preparations of heading 3002 or 3006
+3823	Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols
+3824	Binders made for foundry moulds or cores; chemical products and preparations, including residual products, of the chemical or allied industries, nesoi
+3901	Polymers of ethylene, in primary forms
+3902	Polymers of propylene or other olefins, prim forms
+3903	Polymers of styrene, in primary forms
+3904	Polymers of vinyl chloride etc., in primary forms
+3905	Polymers of vinyl acetate & other vinyl polym, pr fm
+3906	Acrylic polymers in primary forms
+3907	Polyethers, expoxides & polyesters, primary forms
+3908	Polyamides in primary forms
+3909	Amino resins, phenolics & polyurethanes, prim form
+3910	Silicones, in primary forms
+3911	Petro resins, polysulfides etc nesoi, primary form
+3912	Cellulose and chemical deriv nesoi, primary forms
+3913	Natural (inc modified) polymers nesoi, primary forms
+3914	Ion-exchangers based on plastics, in primary forms
+3915	Waste, parings and scrap, of plastics
+3916	Monofil, cr-sect ovimm, rods, sticks etc, plastics
+3917	Tubes, pipes & hoses & their fittings, of plastics
+3918	Floor cover (rolls & tiles) & wall cover, plastics
+3919	Self-adhesive plates, sheets, film etc of plastics
+3920	Plates, sheets, film etc no ad, non-cel etc, plast
+3921	Plates, sheets, film, foil & strip nesoi, plastics
+3922	Baths, washbasins, lavatory seats etc of plastics
+3923	Containers (boxes, bags etc), closurers etc, plast
+3924	Tableware & other household articles etc, plastics
+3925	Builders' ware of plastics, nesoi
+3926	Articles of plastics (inc polymers & resins) nesoi
+4001	Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip
+4002	Synthetic rubber & factice in primary forms etc.; mixtures of natural rubber or gums with synthetic rubber or factice, in primary forms etc.
+4003	Reclaim rubber in primary forms/plates, sheets/strip
+4004	Waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtain thereform
+4005	Compounded rubber, unvulcanised, primary forms etc
+4006	Unvulc rubber forms nesoi & unvulc rubber articles
+4007	Vulcanized rubber thread and cord
+4008	Plates, sheets, profile shapes etc, soft vulc rubber
+4009	Tubes, pipes & hoses of unhard vulcanized rubber
+4010	Conveyor or transmiss belts of vulcanized rubber
+4011	New pneumatic tires, of rubber
+4012	Retread or used pneu tires, solid tires etc, rubber
+4013	Inner tubes for tires, of rubber
+4014	Hygienic or pharm articles of unhard vulcan rubber
+4015	Art of apparel & access of unhard vulcanized rubber
+4016	Articles nesoi of unharded vulcanized rubber
+4017	Hard rubber in all forms: articles of hard rubber
+4101	Raw hides & skins of bovine or equine animals
+4102	Raw skins of sheep or lambs nesoi
+4103	Raw hides and skins nesoi (fr or pres not tan etc)
+4104	Bovine or equine leather, no hair nesoi
+4105	Sheep or lamb skin leather, no wool nesoi
+4106	Goat or kidskin leather, no hair nesoi
+4107	Leather of animals nesoi, no hair nesoi
+4108	Chamois (including combination chamois) leather
+4109	Patent & patent laminated leather, metallized leather
+4110	Leather waste, leather dust, powder and flour
+4111	Composition lea, lea fiber in slabs, sheets, strip
+4201	Saddlery, harness, traces, leads etc, any material
+4202	Travel goods, handbags, wallets, jewelry cases etc
+4203	Articles of apparel & access, leather & comp leather
+4204	Articles of leather used in machinery/mech appliances
+4205	Articles of leather, nesoi
+4206	Articles of gut nesoi, of gold beater's skin etc.
+4301	Raw furskins nesoi (incl pcs for fur use)
+4302	Tanned or dressed furskins (incl pcs etc)
+4303	Articles of apparel etc, of furskin
+4304	Artificial fur and articles thereof
+4401	Fuel wood in logs etc, wood in chips, etc.
+4402	Wood charcoal, whether or not agglomerated
+4403	Wood in the rough, stripped or not of sapwood etc
+4404	Hoopwood, split poles, pickets and stakes etc
+4405	Wood wool (excelsior), wood flour
+4406	Railway or tramway sleepers (cross-ties) of wood
+4407	Wood sawn or chipped length, sliced etc, ov6mm thick
+4408	Veneer sheets etc, not over 6 mm thick
+4409	Wood, continuously shaped (tongued, grooved etc.)
+4410	Particle board & similar board of wood etc.
+4411	Fiberboard of wood or other ligneous materials
+4412	Plywood, veneered panels & similar laminated wood
+4413	Densified wood blocks/plates/strips/profile shapes
+4414	Wooden frames paintings, photographs, mirrors, etc
+4415	Packing cases etc of wood, pallets etc of wood
+4416	Casks, barrels, vats, etc. and parts, of wood
+4417	Tools, tool & broom bodies etc shoe last/trees wood
+4418	Builders' joinery and carpentry of wood
+4419	Tableware and kitchenware, of wood
+4420	Wood marquetry etc, jewel case etc & wood furn nesoi
+4421	Articles of wood, nesoi
+4501	Natural cork, raw or simply prep, waste cork etc.
+4502	Natural cork deback/rgh sqd in blocks/sheets/strips
+4503	Articles of natural cork
+4504	Agglomerated cork and articles thereof
+4601	Plaits etc & products of plaiting materials
+4602	Basketwork, wickerwork of plaits etc, loofa article
+4701	Mechanical woodpulp
+4702	Chemical woodpulp, dissolving grades
+4703	Chemical woodpulp, soda or sulfate, not dissoly gr
+4704	Chemical woodpulp, sulfite, not dissolving grades
+4705	Semichemical woodpulp
+4706	Pulps of fiberous cellulosic material nesoi
+4707	Waste and scrap of paper or paperboard
+4801	Newsprint, in rolls or sheets
+4802	Paper, uncoat, for writing etc, rolls, handmade paper
+4803	Toilet etc household/santry stock ppr roll/sheet ov 36cm
+4804	Kraft paper & paperboard, uncoat nesoi, rolls etc
+4805	Paper & paperboard, uncoat, nesoi, rolls or sheets
+4806	Veg parchment, greaseproof papers etc, rolls etc
+4807	Composite paper & paperboard, no surf coat, roll etc
+4808	Paper and paperboard, corrugated etc, rolls etc
+4809	Paper, carbon, self copy etc, rolls etc ov 36 cm w
+4810	Paper & paperboard, coated with kaolin etc, roll etc
+4811	Paper, paperboard, wad etc, coat etc nesoi, roll etc
+4812	Filter blocks, slabs and plates, of paper pulp
+4813	Cigarette paper, cut to size etc or not
+4814	Wallpaper etc., window transparencies of paper
+4815	Floor coverings, paper/paperboard base w/n cut to size
+4816	Paper, carbon, self-copy etc nesoi, boxed or not
+4817	Envelopes, postcards etc & boxes etc of stationery
+4818	Toilet paper, paper tissues, towels, napkins etc
+4819	Cartons etc paper, office box files etc, paper etc
+4820	Registers, notebooks, binders, bus forms etc, paper
+4821	Labels of paper or paperboard, printed or not
+4822	Bobbins, spools etc. of pap pulp, paper & paperboard
+4823	Paper, paperboard, cellulose wad to size & arts nesoi
+4901	Books, brochures & similar printed matter
+4902	Newspapers, journals & periodicals
+4903	Children's picture, drawing or coloring books
+4904	Music, printed or in manuscript, bound etc or not
+4905	Maps & hydrographic charts etc, atlases etc
+4906	Plans, drawings for architectural, etc purposes
+4907	Unused postage, check forms, banknotes, stock, etc
+4908	Transfers (decalcomanias, except toy)
+4909	Printed or illust post cards, greeting cards, etc.
+4910	Calendars, calendar blocks of any kind, printed
+4911	Printed matter nesoi, incl print pictures & photos
+5001	Silkworm cocoons suitable for reeling
+5002	Raw silk (not thrown)
+5003	Silk waste, including silk yarn waste etc.
+5004	Silk yarn, not spun from waste, not retail packed
+5005	Yarn spun from silk waste not put up for retail sale
+5006	Silk yarn & yarn from waste put up for ret, silkworm gut
+5007	Woven fabrics of silk or silk waste
+5101	Wool, not carded or combed
+5102	Fine or coarse animal hair, not carded or combed
+5103	Waste of wool or of fine or coarse animal hair
+5104	Garnetted stock of wool/fine or coarse animal hair
+5105	Wool & fine or coarse animal hair, carded & combed
+5106	Yarn of carded wool, not put up for retail sale
+5107	Yarn of combed wool, not put up for retail sale
+5108	Yarn of fine animal hair, not for retail sale
+5109	Yarn of wool or fine animal hair, for retail sale
+5110	Yarn coarse animal hair put up or not retail sale
+5111	Woven fabrics of carded wool or fine animal hair
+5112	Woven fabrics of combed wool or fine animal hair
+5113	Woven fabrics of coarse animal hair or horsehair
+5201	Cotton, not carded or combed
+5202	Cotton waste (including yarn waste etc.)
+5203	Cotton, carded or combed
+5204	Cotton sewing thread, retail packed or not
+5205	Cotton yarn (not sewing thread) nu 85% cot no retail
+5206	Cotton yarn (not sewing thread) un 85% cot no retail
+5207	Cotton yarn (not sewing thread) retail packed
+5208	Woven cotton fabrics, nu 85% cot, wt n/ov 200 g/m2
+5209	Woven cotton fabrics, nu 85% cot, wt ov 200 g/m2
+5210	Woven cotton fab, un 85% cot, mmfmix, n/ov 200g/m2
+5211	Woven cotton fabrics, un 85% cot, mmfmix, ov 200g/m2
+5212	Woven cotton fabrics nesoi
+5301	Flax, raw etc but not spun, flax tow and waste
+5302	True hemp, raw etc not spun, true hemp tow and waste
+5303	Jute & other text bast fibers nesoi, raw etc & tow etc
+5304	Sisal & other agave text fibers, raw etc & tow etc
+5305	Coconut, abaca, ramie etc nesoi, raw etc, tow etc
+5306	Flax yarn
+5307	Yarn of jute & other textile bast fibers nesoi
+5308	Yarn of vegetable textile fibers nesoi, paper yarn
+5309	Woven fabrics of flax
+5310	Woven fabrics of jute or other text bast fiber nesoi
+5311	Woven fab of veg textile fibers nesoi, wov fab of ppr yarn
+5401	Sewing thread of manmade filaments, retail or not
+5402	Synthetic filament yarn (no sew thread), no retail
+5403	Artificial filament yarn (no sew thread), no retail
+5404	Syn monofil not un 97 dec, cr-sect n/ov1 mm, stno5mm
+5405	Art monof, n/un67 dec crs n/ov1mm, strip nov5mm wd
+5406	Manmade filament yarn (no sew thread), retail pack
+5407	Woven fab of syn fil yarn, incl monofil 67 dec etc
+5408	Woven fab of art fil yarn, incl monofil 67 dec etc
+5501	Synthetic filament tow
+5502	Artificial filament tow
+5503	Synthetic staple fibers, not carded, combed etc.
+5504	Artificial staple fibers, not carded, combed etc.
+5505	Waste of manmade fibers (including noils etc.)
+5506	Synthetic staple fibers, carded, combed etc.
+5507	Artific stpl fiber crd cmb or othws prcd for spng
+5508	Sewing thread, manmade staple fiber, retail or not
+5509	Yarn (no sew thread), syn staple fib, not retail
+5510	Yarn (no sew thread), art staple fib, not retail
+5511	Yarn (no sew thread), manmade staple fiber, retail
+5512	Woven fabric, synth staple fib nu 85% synth st fiber
+5513	Woven fabric, syn st fib un 85%, cot mix, n/ov170g/m2
+5514	Woven fabric, syn st fib un 85%, cot mix, ov 170 g/m2
+5515	Woven fabrics of synthetic staple fibers nesoi
+5516	Woven fabrics of artificial staple fibers
+5601	Text wadding & articles, text fibers n/ov 5 mm, etc
+5602	Felt, impregnated, coated, etc. or not
+5603	Nonwovens, whether or not impregnated, coated etc
+5604	Rub thread & cord, text cov, tex yarn etc cov rub etc
+5605	Metal yarn whet o not gimp tex yarn o strip w/metal
+5606	Gimp yarn & strip, 5404/5405 chen yarn loop wale-yarn
+5607	Twine, cordage, rope & cables, coated etc or not
+5608	Knotted net of twine etc, fish net etc of textiles
+5609	Art of yarn like of head 5404/5405 twine or cable nesoi
+5701	Carpets & other textile floor coverings, knotted
+5702	Carpets & other text floor cover, woven, no tuft etc
+5703	Carpets & other textile floor coverings, tufted
+5704	Carpets & other text floor cover, felt, no tuft etc
+5705	Other carpets & other tex floor cov, whethr/not made-up
+5801	Woven pile & chenille fabrics nesoi (no terry etc)
+5802	Woven terry fabrics nesoi, tufted tex fabric nesoi
+5803	Gauze (other than narrow fabrics not over 30 cm)
+5804	Tulles & other net fabrics, lace in pc, strip etc.
+5805	Hand-woven tapestries wall hang use only
+5806	Narrow woven fabrics except labels etc in pc etc
+5807	Labels, badges etc of textiles, in the pc etc
+5808	Braids in pc, ornamental trim in piece etc, tassels etc.
+5809	Woven fabrics of metal thread & metallized yarn nec
+5810	Embroidery in the piece, in strips or in motifs
+5811	Quilt tex prod pc 1> layer w/pad stch not embr h 5810
+5901	Textile book covered fabric, tracing cloth, paint canvas
+5902	Tire cord fabric of high tenacity yarn, nylon etc
+5903	Textile fabrics (not tire cord) coat etc, plastics
+5904	Linoleum, floor cover with coat etc on a text base
+5905	Textile wall coverings
+5906	Rubberized textile fabrics, other than tire cord
+5907	Textile fabric, coated, etc, theatrical scenery, back-cloths
+5908	Textile wicks for lamps etc and gas mantles etc
+5909	Textile hosepiping and similar textile tubing
+5910	Transmission/conveyor belts, tex matrl, whthr/not reinfrcd
+5911	Textile products etc. for specific tech uses nesoi
+6001	File fabrics, knitted or crocheted
+6002	Knitted or crocheted fabrics, nesoi
+6101	Men's or boys' overcoats etc, knit or crochet
+6102	Women's or girls' overcoats etc, knit or crochet
+6103	Men's or boys' suits, ensembles etc, knit or croch
+6104	Women's or girls' suits, ensemb etc, knit or croch
+6105	Men's or boys' shirts, knitted or crocheted
+6106	Women's or girls' blouses & shirts, knit or croch
+6107	Men's or boys' underpants, pjs, etc, knit or croch
+6108	Women's or girls' slips, pjs, etc, knit or crochet
+6109	T-shirts, singlets, tank tops etc, knit or crochet
+6110	Sweaters, pullovers, vests etc, knit or crocheted
+6111	Babies' garments & accessories, knit or crocheted
+6112	Track suits, ski-suits & swimwear, knit or crochet
+6113	Garments, knit etc, coated etc rubber, plastic etc
+6114	Garments nesoi, knitted or crocheted
+6115	Pantyhose, socks & other hosiery, knit or crochet
+6116	Gloves, mittens and mitts, knitted or crocheted
+6117	Made-up clothing access nesoi. parts etc. knit etc
+6201	Men's or boys' overcoats, cloaks etc, not knit etc
+6202	Women's or girls' overcoats etc, not knit or croch
+6203	Men's or boys' suits, ensembles etc, not knit etc
+6204	Women's or girls' suits, ensemb etc, not knit etc
+6205	Men's or boys' shirts, not knitted or crocheted
+6206	Women's or girls' blouses, shirts etc not knit etc
+6207	Men's or boys' undershirts etc, not knit or croch
+6208	Women's or girls' slips etc, not knit or crochet
+6209	Babies' garments & accessories, not knit or croch
+6210	Garments, of felt etc, or fabric impregnated etc
+6211	Track suits, ski-suits & swimwear, not knit etc
+6212	Bras, girdles, garters etc., knitted etc or not
+6213	Handkerchiefs
+6214	Shawls, scarves, mufflers, mantillas, veils etc.
+6215	Ties, bow ties & cravats, not knitted or crocheted
+6216	Gloves, mittens and mitts, not knit or crocheted
+6217	Made-up clothing access nesoi, garment etc parts nesoi
+6301	Blankets and traveling rugs
+6302	Bed linen, table linen, toilet linen & kitchen linen
+6303	Curtains & interior blinds, curtain & bed valances
+6304	Furnishing articles of textile materials nesoi
+6305	Sacks & bags of textile material for packing goods
+6306	Tarpaulins, sails, awnings, tents, etc.
+6307	Made-up articles of textile materials nesoi
+6308	Needlecraft sets of woven fabric & yarn, retail pack
+6309	Worn clothing and other worn textile articles
+6310	Used or new rags, scrap twine etc of text material
+6401	Waterproof footwear, rubber or plastics, bond sole
+6402	Footwear, outer sole & upper rubber or plastic nesoi
+6403	Footwear, outer sole rub, plastic or lea & upper lea
+6404	Footwear, outer sole rub, plastic or lea & upper tex
+6405	Footwear nesoi
+6406	Parts of footwear: insoles etc: gaitors etc, parts
+6501	Hat forms/bodies, hoods, plateaux & manchons of felt
+6502	Hat shapes, plaited or assembled strips any material
+6503	Felt hats & other felt headgear from heading 6501
+6504	Hats & other headgear,plaitd/assmbld strips any material
+6505	Hats & headgear, knit etc, lace, etc in pc, hr net
+6506	Headgear nesoi, whether or not lined or trimmed
+6507	Headbands, linings, covers, frames, visors, etc chinstrap
+6601	Umbrellas & sun umbrellas & other umbrellas
+6602	Walking-sticks, seat-sticks, whips, riding-crops
+6603	Parts etc for umbrellas, walking sticks, whips etc
+6701	Skins & other parts of birds w/ feathers processed
+6702	Artificial flowers, foliage & fruit, parts & articles
+6703	Human hair, wool/other animal hair, textiles for wigs
+6704	Wigs etc of hair etc, human hair articles nesoi
+6801	Setts, curbstones and flagstones, of nat st ex salt
+6802	Worked monument etc stone & art nesoi, granule etc
+6803	Slate, worked and articles, articles of agglomerated salt
+6804	Millstones etc for grinding etc, various materials
+6805	Abrasive powder etc on a base of text material etc
+6806	Mineral wools, expanded mineral material & mixture
+6807	Articles of asphalt or of similar material
+6808	Panels boards etc o veg fbr ag w cmnt plstr etc bndrs
+6809	Articles of plaster or items based on plaster
+6810	Articles of cement, concrete or artificial stone
+6811	Articles of asbestos-cement, cell fib cement etc
+6812	Fabricated asbestos fibers, items of mixtures etc
+6813	Friction material & art based on mineral subst etc
+6814	Worked mica & articles support on paper etc or not
+6815	Articles of stone or other mineral substance nesoi
+6901	Bricks, blocks, tiles & other ceramic goods slcs earth
+6902	Refractory bricks & other refr ceramic const art nesoi
+6903	Refractory ceramic goods, retorts, tubes etc nesoi
+6904	Ceramic building bricks, flooring blocks, tile etc
+6905	Roofing tiles, chimney pots, cowls, ch liners etc
+6906	Ceramic pipes, conduits, guttering & pipe fittings
+6907	Unglazed ceramic flags & paving, hearth tiles etc
+6908	Glazed ceramic flags & paving, hearth tiles, etc
+6909	Ceramic lab etc wares, agr tubs etc & packing art
+6910	Ceramic sinks, washbasins, water closet bowls etc
+6911	Ceramic tableware etc. of porcelain or china
+6912	Ceramic tableware, kitchenware etc, earthenware etc
+6913	Statuettes and other ornamental ceramic articles
+6914	Ceramic articles nesoi
+7001	Cullet & other waste & scrap glass, glass in mass
+7002	Glass in balls (not micros), rods or tubes, unwork
+7003	Cast & rolled glass, in sheets or profiles etc
+7004	Drawn & blown glass, in sheets etc
+7005	Float glass & surf ground or polished sheets etc
+7006	Glass of 7003-5 bnt, edg wkd, engr, drl, enml othr etc
+7007	Safety glass, of tempered or laminated glass
+7008	Multiple-walled insulating units of glass
+7009	Glass mirrors, framed or not, inc rearview mirrors
+7010	Glass containers for packing etc & glass closures
+7011	Glass envelopes, open il glass parts etc
+7012	Glass inners for vacuum flasks & other vacuum vessels
+7013	Glassware for table, kitchen, toilet etc use nesoi
+7014	Signal glassware & glass optic elem nesoi not wrkd
+7015	Clock etc glasses, spectacle glasses not opt work, etc
+7016	Glass paving blocks etc, glass cubes, lead window etc
+7017	Glassware for lab, hygienic or pharmaceutical use
+7018	Glass beads etc & articles nesoi, lamp wrkd-glass orn
+7019	Glass fibers & articles thereof (yarn etc.)
+7020	Articles of glass, nesoi
+7101	Pearls, natural or cultured, not strung or set etc
+7102	Diamonds, worked or not, not mounted or set
+7103	Precious nesoi & semiprec stones, not strung etc
+7104	Synth prec or semiprec stones etc, not strung etc
+7105	Dust & powder of nat or synth prec or semipr stone
+7106	Silver (incl prec plated), unwr, semimfr or powder
+7107	Base metals clad w silver not frth wkd than smmnfctrd
+7108	Gold (incl put plated), unwr, semimfr or powder
+7109	Base metal or silver clad w gld not frtr wkd th smmnfctrd
+7110	Platinum, unwrought, semimfr forms or in powder fm
+7111	Base metal a slv a gld cld w put nt fr wkd th smnfctd
+7112	Waste & scrap of prec metal or metal clad w prec metal
+7113	Articles of jewelry & parts, of prec metal or clad
+7114	Articles of goldsmith/silversmith wares, prec metal
+7115	Articles of or clad with precious metal nesoi
+7116	Articles of natural or cut pearls, prec/semprc stones
+7117	Imitation jewelry
+7118	Coin
+7201	Pig iron & spiegeleisen in pigs, blocks etc.
+7202	Ferroalloys
+7203	Spongy ferrous prod & iron 99.94% pure, lumps etc
+7204	Ferrous waste & scrap, remelt scrap iron/steel ingot
+7205	Pig iron, spiegel, iron or steel granules & powder
+7206	Iron & nonalloy steel in ingots etc nesoi
+7207	Semifinished products of iron or nonalloy steel
+7208	Flat-roll iron & na steel n/un600mm wd hot-rl, not clad
+7209	Flat-roll iron & na steel n/un600mm wd cold-rl, no clad
+7210	Flat-roll iron & na steel n/un600mm wd, clad etc
+7211	Flat-roll iron & na steel un 600mm wd, not clad etc
+7212	Flat-roll iron & na steel un 600mm wd, clad etc
+7213	Bars & rods, iron & na steel, h-r irreg coils
+7214	Bars & rods, iron & na steel nesoi, h-r etc
+7215	Bars & rods, iron & na steel nesoi
+7216	Angles, shapes & sections of iron & nonalloy steel
+7217	Wire of iron & nonalloy steel
+7218	Stainless steel in ingots etc & semifin products
+7219	Flat-roll stainless steel products, not und 600mm wide
+7220	Flat-roll stainless steel products, under 600mm wide
+7221	Bars and rods, stainless steel, hot-rolled, irreg coils
+7222	Bars & rods, st steel nesoi, angles etc, st steel
+7223	Wire of stainless steel
+7224	Alloy steel nesoi in ingots, other primary form & semif pr
+7225	Flat-roll alloy steel nesoi n/un 600mm wide
+7226	Flat-roll alloy steel nesoi un 600mm wide
+7227	Bars & rods alloy steel nesoi, hot-rolled irreg coils
+7228	Alloy steel nesoi bars, angles etc, hol dr st bars etc
+7229	Wire of alloy steel nesoi
+7301	Sheet piling, welded angles etc of iron or steel
+7302	Railway etc track construction material, iron & steel
+7303	Tubes, pipes and hollow profiles of cast iron
+7304	Tubes, pipes etc, seamless, iron nesoi & steel
+7305	Tubes & pipes nesoi, ext dia ov406-4mm, iron & steel
+7306	Tubes, pipes & hollow profiles nesoi, iron & steel
+7307	Tube or pipe fittings, of iron or steel
+7308	Structures nesoi & parts thereof, of iron or steel
+7309	Tanks etc, over 300 liter capacity, iron or steel
+7310	Tanks etc, n/ov 300 liter capacity, iron or steel
+7311	Containers for compressed or liquified gas
+7312	Stranded wire, ropes etc, no elec ins, iron or steel
+7313	Barbed wire and twisted wire for fencing, iron/steel
+7314	Cloth, grill etc iron or steel, expand metal, iron or steel
+7315	Chain & parts, of iron or steel
+7316	Anchors, grapnels and parts thereof, of iron/steel
+7317	Nails, tacks, drawing pins etc of iron or steel
+7318	Screws, bolts, nuts, washers etc, iron or steel
+7319	Needles, sew & knit, bodkins etc, pins etc iron & steel
+7320	Springs & leaves for springs, iron or steel
+7321	Stoves, ranges etc, nonel domestic & parts, iron & steel
+7322	Radiators, air heaters etc, nonel & parts, iron & steel
+7323	Household articles & parts, iron & st, ir or steel wool etc
+7324	Sanitary ware & parts, iron or steel
+7325	Cast articles nesoi, of iron or steel
+7326	Articles of iron or steel, nesoi
+7401	Copper mattes, cement copper (precipitated copper)
+7402	Unrefined copper, copper anodes for electrolytic refining
+7403	Refined copper & alloys (no mast alloy), unwrought
+7404	Copper waste and scrap
+7405	Master alloys of copper
+7406	Copper powders and flakes
+7407	Copper bars, rods and profiles
+7408	Copper wire
+7409	Copper plates, sheets & strip, over 0.15mm thick
+7410	Copper foil (backed or not) n/ov .15mm th (ex back)
+7411	Copper tubes and pipes
+7412	Copper tube or pipe fittings
+7413	Stranded wire, cables etc of copper, not elec ins
+7414	Cloth, grill & net of copper wire, expand copper metal
+7415	Nails, tacks etc of copper etc, screws etc, copper
+7416	Copper springs
+7417	Cooking & heating ap domestic n-elctrc a pts thf copper
+7418	Household art & parts, copper, pot scourers etc, copper
+7419	Articles of copper nesoi
+7501	Nickel mattes, nickel oxide sinters, other int prod
+7502	Nickel, unwrought
+7503	Nickel waste and scrap
+7504	Nickel powders and flakes
+7505	Nickel bars, rods, profiles and wire
+7506	Nickel plates, sheets, strip and foil
+7507	Nickel tubes, pipes and tube or pipe fittings
+7508	Articles of nickel, neso
+7601	Aluminum, unwrought
+7602	Aluminum waste and scrap
+7603	Aluminum powders and flakes
+7604	Aluminum bars, rods and profiles
+7605	Aluminum wire
+7606	Aluminum plates, sheets & strip over 2mm thick
+7607	Aluminum foil (back or not) n/ov 2mm th (ex back)
+7608	Aluminum tubes and pipes
+7609	Aluminum tube or pipe fittings
+7610	Aluminum structures nesoi (no prefab) & parts of
+7611	Tanks etc, over 300 liter capacity, aluminum
+7612	Aluminum casks, cans etc n/ov 300 liter capacity
+7613	Aluminum containers for compressed or liquefied gas
+7614	Stranded wire, cables etc, aluminum, no elec insul
+7615	Household art etc, pot scour etc, san ware, aluminum
+7616	Articles of aluminum nesoi
+7801	Lead, unwrought
+7802	Lead waste and scrap
+7803	Lead bars, rods, profiles and wire
+7804	Lead plates, sheets, strip, foil, powder & flakes
+7805	Lead pipes & tubes incl fittings therefor
+7806	Articles of lead, nesoi
+7901	Zinc, unwrought
+7902	Zinc waste and scrap
+7903	Zinc dust, powders and flakes
+7904	Zinc bars, rods, profiles and wire
+7905	Zinc plates, sheet, strip and foil
+7906	Zinc tubes, pipes and tube or pipe fittings
+7907	Articles of zinc nesoi
+8001	Tin, unwrought
+8002	Tin waste and scrap
+8003	Tin bars, rods, profiles and wire
+8004	Tin plates, sheet and strip over 0.2mm thick
+8005	Tin foil (backed or not), n/ov .2mm, tin pow & flak
+8006	Tin tubes and pipes including pipe & tube fittings
+8007	Articles of tin, nesoi
+8101	Tungsten (wolfram) & articles, incl waste & scrap
+8102	Molybdenum & articles thereof, incl waste & scrap
+8103	Tantalum & articles thereof, includ waste & scrap
+8104	Magnesium & articles thereof, incl waste & scrap
+8105	Cobalt mattes etc, cobalt & art, inc waste & scrap
+8106	Bismuth & articles, incld waste and scrap
+8107	Cadmium & articles thereof, includ waste & scrap
+8108	Titanium & articles thereof, includ waste & scrap
+8109	Zirconium & articles thereof, includ waste & scrap
+8110	Antimony and articles thereof incl waste and scrap
+8111	Manganese and articles thereof, inc waste and scrap
+8112	Beryllium, chromium, germ, vanad, gallium, hafnm, etc
+8113	Cermets and articles thereof, inc waste and scrap
+8201	Handtools & tools used in agricult etc, b met pts
+8202	Handsaws & metal pts, saw blades, base mtl saw parts
+8203	Files, rasps, pliers, metalcut shears etc, b mt pt
+8204	Hand operated spanners & wrenches etc, b met parts
+8205	Handtools nesoi, blow torches etc, anvils etc
+8206	Tools of 2 om of hdg 8202-8205, sets for retail sale
+8207	Interchange tools for hand- or machine-tools, bmpt
+8208	Knives & blades for machines & appliances, b mt pt
+8209	Plates, sticks, tips etc f tools unmntd sntrd crbds/crmts
+8210	Hand-op mech appl 10kg or less, food/drk prp/con/srv pt
+8211	Knives with blades & blades for knives nesoi, bmpt
+8212	Razors & razor blades (incl blade blanks), b mt pt
+8213	Scissors, tailors & smlr shears, blds a oth bs mtl pas
+8214	Articles of cutlery nesoi, manicure sets etc, bmpt
+8215	Tableware etc of base metal, & base metal parts
+8301	Padlocks, locks & keys & parts, of base metal
+8302	Hardware, fixtures, castors etc & parts, base metal
+8303	Safes, cash or deed boxes etc & parts, base metal
+8304	Office and desk equip & parts, of base metal
+8305	Looseleaf binder etc fittings, paper cups etc bmp
+8306	Lls etc (nonelec), ornaments, ph frames etc bmpt
+8307	Flexible tubing of base metal
+8308	Clasps, buckles, hooks etc, beads & spangles, b metal
+8309	Stoppers, caps & lids, seals etc & pas, base metal
+8310	Sign & name plates & smbls et bm excpt of hdg 9405
+8311	Wire, rods etc for soldering etc & met spray, bmpt
+8401	Nuclear reactors, fuel elem (n-l): mach isotope sep
+8402	Steam etc generating boilers nesoi, sup w boilers
+8403	Central heat boilers nesoi, and parts
+8404	Auxiliary plant used with boilers, condensers, pts
+8405	Producer gas, acetylene gas etc generators & parts
+8406	Steam turbines & other vapor turbines, parts
+8407	Spark-ignition recip or rotary int comb piston engine
+8408	Compression-ignition internal comb piston engines
+8409	Parts for engines of heading 8407 or 8408
+8410	Hydraulic turbines, water wheels & regulators, pts
+8411	Turbojets, turbopropellers & other gas turbines, pts
+8412	Engines and motors nesoi, and parts thereof
+8413	Pumps for liquids, liquid elevators, parts thereof
+8414	Air or vacuum pumps, compr & fans, hoods & fans, pts
+8415	Air conditioning machines (temp & hum change), pts
+8416	Furnace burners, mechanical stokers etc, parts
+8417	Industrial or lab furnaces & ovens, nonelect, pts
+8418	Refrigerators, freezers etc, heat pumps nesoi, pts
+8419	Machinery etc for temp change treat mat, w heat, pt
+8420	Calendering machines etc nesoi & cylinders, parts
+8421	Centrifuges, filter etc mach for liquid or gases, pts
+8422	Machines, dishwash, clean etc cont & fill, pak etc
+8423	Weighing machines & weighing machine weights, pts
+8424	Mech appl to disperse liq etc, sand etc blast mach
+8425	Pulley tackle & hoists (exc skip), winch etc, jaks
+8426	Derricks, cranes, mobile lifting frames etc
+8427	Fork-lift trucks, other works trucks with lifts etc.
+8428	Lifting, handling, loading & unload machines nesoi
+8429	Self-propelled bulldozers, graders, scrapers etc
+8430	Mach nesoi, moving, grad etc, pile-dr, snowplow etc
+8431	Parts for machinery of headings 8425 to 8430
+8432	Agricult etc mach for soil etc, lawn rollers, pts
+8433	Harvest etc machines, cleaning eggs etc nesoi, pts
+8434	Milking machines & dairy machinery & parts
+8435	Presses etc for wine, cider, fruit juice etc, pts
+8436	Agri etc & poultry etc equip, inc incubators, pts
+8437	Mach for cleaning seed etc & work cereal etc, pts
+8438	Mach nesoi, ind prep of food or drink etc, parts
+8439	Mach for making pulp & making/finishing paper, pts
+8440	Bookbinding machinery, incl book-sewing, parts
+8441	Mach for making up pulp & paper, inc cutters, pts
+8442	Mach etc nesoi for typeset, making pr plates etc
+8443	Printing machinery, machines ancil to printing, pt
+8444	Machines extruding, drawing etc manmade textiles
+8445	Machines for preparing textile fibers & yarns
+8446	Weaving machines (looms)
+8447	Machines, knitting, stitch-bond, lace, net etc.
+8448	Auxiliary machinery for use with textile machines
+8449	Mach for manuf or finish nonwovens, hat blocks, parts
+8450	Washing machines, household- or laundry-type, pts
+8451	Machinery (not laundry) for cleaning, drying etc
+8452	Sewing machines (not book-sew), cover etc, needles
+8453	Machinery for work leather etc & footwear etc, pts
+8454	Converters, ladles, ingot molds & casting mach, pt
+8455	Metal-rolling mills and rolls therefor, parts
+8456	Machine tools for material removal by laser etc
+8457	Machining centers, unit const mach etc work metal
+8458	Lathes for removing metal
+8459	Machine tools for drilling, boring, milling etc
+8460	Machine tools for honing or finishing metal etc
+8461	Machine tools for shaping, slotting, gear cut etc
+8462	Machine tools for forging, bending, stamping etc
+8463	Machine tools for working metal, nesoi
+8464	Machine tools for working stone, etc & glass
+8465	Machine tools for working wood, cork, bone etc
+8466	Parts etc for machine tools of head 8456 to 8465
+8467	Tools for working in the hand, pneumatic etc, pts
+8468	Machines, solder etc, gas surf temper machines, pt
+8469	Typewriters & word processing machines
+8470	Calculating & account machines, cash registers etc
+8471	Automatic data process machines, magn reader, etc. computer hardware
+8472	Office machines nesoi (hectogpaph, addressing etc)
+8473	Parts etc for typewriters & other office machines computer accessories
+8474	Machinery for sorting screening etc minerals, pts
+8475	Machines for assembling elec tubes etc & glass mfr, pt
+8476	Automatic goods-vending machines, parts
+8477	Machinery for working rubber & plastic etc nesoi, pt
+8478	Machinery for tobacco preparation nesoi, parts
+8479	Machines etc having individual functions nesoi, pt
+8480	Molding boxes for metal foundry, mold bases etc
+8481	Taps, cocks, valves etc for pipes, tanks etc, pts
+8482	Ball or roller bearings and parts
+8483	Transmission shafts, bearings, gears etc, parts
+8484	Gaskets & similar joints of metal sheeting
+8485	Machinery pts. no elect connectors etc nesoi
+8501	Electric motors and generators (no sets)
+8502	Electric generating sets and rotary converters
+8503	Parts of electric motors, generators & sets
+8504	Electric transform, static converters & induct, pt
+8505	Electromagnets, permanent magnets etc & parts
+8506	Primary cells & batteries, parts
+8507	Electric storage batteries, incl separators, parts
+8508	Electromechanical tools, working in hand, parts
+8509	Electromech domestic appliances, parts
+8510	Electric shavers & hair clippers, parts
+8511	Electric ignition etc equip, generators, parts
+8512	Electric light etc equip, windshield wipers etc, parts
+8513	Portable elec lamps function by own energy source
+8514	Industrial or lab elec furnaces etc, parts
+8515	Electric, laser or other light or photon beam etc
+8516	Elec water, space & soil heaters, hair etc dry, pt
+8517	Elec apparatus for line telephony, telephone sets, pts
+8518	Microphones, loudspeakers, sound amplifier etc, pt
+8519	Turntables, record & cassette players etc.
+8520	Magnetic tape & other sound recorders
+8521	Video recording or reproducing apparatus
+8522	Parts & access of record play, mag tape record etc
+8523	Prepared unrecorded media (no film) for sound etc.
+8524	Records, tapes & other recorded sound media etc computer software
+8525	Trans apparatus for radiotelephony etc, tv cameras cordless telephones
+8526	Radar apparatus, radio navig aid & remote cont app
+8527	Reception apparatus for radiotelephony etc
+8528	Television receivers (incl monitors & proj receivers)
+8529	Parts for television, radio and radar apparatus
+8530	Electric signal, safety or traffic control equip
+8531	Electric sound or visual signaling apparatus, pts
+8532	Electric capacitors, fixed, variable or adjustable (preset)
+8533	Electrical resistors except heating resistors, pts
+8534	Printed circuits
+8535	Electrical apparatus for switching etc, ov 1000v
+8536	Electrical apparatus for switching etc, n/ov 1000v
+8537	Boards, panels etc with elec switch appar etc.
+8538	Parts for elec appar etc of head 8535, 8536 & 8537
+8539	Electric filament or discharge lamps, parts
+8540	Thermionic, cold cathode or photocathode tubes, pt
+8541	Semiconductor devices, light-emit diodes etc, pts
+8542	Electronic integrated circuits & microassembl, pts
+8543	Electrical mach etc, with ind functions nesoi, pts
+8544	Insulated wire, cable etc, opt sheath fib cables
+8545	Carbon electrodes & brushes, lamp carbons etc
+8546	Electrical insulators of any material
+8547	Insulating fittings for assembly nesoi
+8548	Electrical parts of machinery nesoi
+8601	Rail locomotives, elect (battery or extern source)
+8602	Rail locomotives, nonelect nesoi, locomot tenders
+8603	Self propelled railway etc coaches, vans etc nesoi
+8604	Railway or tramway maintenance or service vehicles
+8605	Railway, tramway pass etc coaches not self-propelled
+8606	Railway or tramway freight cars, not self-propelled
+8607	Parts of railway or tramway locomotives or r stock
+8608	Railway fixtures, mech signaling, safety, etc, eq
+8609	Containers for one or more modes of transport
+8701	Tractors (other than works trucks) of heading 8709
+8702	Public-transport type passenger motor vehicles
+8703	Motor cars & vehicles for transporting persons
+8704	Motor vehicles for transport of goods
+8705	Special purpose motor vehicles nesoi
+8706	Chassis w eng for trac, mtr veh f pass/gd & special pur
+8707	Bodies (including cabs), for specific motor vehicles
+8708	Parts & access for motor vehicles (head 8701-8705
+8709	Works trucks, self-prop, no lift, stat tractors, pt
+8710	Tank & other armored fight vehicle, motorized, and parts
+8711	Motorcycles (incl mopeds) & cycles with aux motor
+8712	Bicycles & other cycles (inc del tricycle) no motor
+8713	Invalid carriages, mechanically propelled or not
+8714	Parts & access for cycles & invalid carriages
+8715	Baby carriages (inc strollers) and parts thereof
+8716	Trailers etc, other vehicles, not mech propelled, pt
+8801	Balloons & dirigibles, gliders etc
+8802	Aircraft, powered, spacecraft & launch vehicles
+8803	Parts of balloons etc, aircraft, spacecraft etc
+8804	Parachutes (including dirigible parachutes) rotoch
+8805	Aircraft launch gear, deck-arrest, grd flying trainers, pt
+8901	Vessels for the transport of persons or goods
+8902	Fishing vessels, factory ships & ships, vessels, nesoi
+8903	Yachts & other vessels for pleas etc, row boat etc
+8904	Tugs and pusher craft
+8905	Light-vessels, fire-floats etc, fl docks & platforms
+8906	Vessels nesoi incl warship/lifeboat ex row boats
+8907	Floating structures nesoi, rafts, tanks, buoys etc
+8908	Vessels and floating structures for scrapping
+9001	Optical fibers & bund etc, pol sheets, unmoun opt elem
+9002	Optical elements, mounted, parts & accessories
+9003	Frames & mountings for spectacles, goggles etc,
+9004	Spectacles, goggles etc, correct, protect etc
+9005	Optical telescopes & mount, astro inst & mount, pt
+9006	Photographic still cameras, flash apparatus etc
+9007	Cinematographic cameras & projectors, parts etc
+9008	Image projectors, still, enlargers etc, still, pts
+9009	Photocopy apparatus & thermocopy apparatus, pts
+9010	Apparatus etc for photo labs etc nesoi, parts etc
+9011	Compound optical microscopes, parts & accessories
+9012	Microscopes, except optical, diffract appar, parts
+9013	Liquid crystal devices nesoi, lasers, opt appl, pt
+9014	Direction finding compasses & navig inst etc, pts
+9015	Survey, hydrogr, meteoro etc inst, rangef etc, pts
+9016	Balances, sensitivity > =5 cg, w or w/o wgt, & pts
+9017	Drawing, math, measuring inst etc nesoi, parts
+9018	Medical, surgical, dental or vet inst, no elec, pt
+9019	Mech-ther, massage, psych test, ozone app etc, pts
+9020	Breathing appliances & gas masks nesoi, parts etc
+9021	Orthopedic appl, artif body pts, hear aid, pts etc
+9022	X-ray etc apparatus, tubes, panels, screen etc, pt
+9023	Inst, appts & models, for demonstrational use & parts
+9024	Machines etc for testing mech prop of material, pt
+9025	Hydrometers, thermometers, pyrometers etc, pts etc
+9026	Inst etc measure or check flow, level etc, pts etc
+9027	Inst etc for physical etc anal etc, microtome, pts
+9028	Gas, liquid or electric supply etc meters, parts
+9029	Revolution & production count, taximeters etc, pts
+9030	Oscilloscopes, spectrum analyzers etc, parts etc
+9031	Machines, nesoi in Chapter 90, profile project, pt
+9032	Automatic regulating or control instruments, parts
+9033	Parts, nesoi for machines, appln, inst/appts of Chap 90
+9101	Watches, wrist, pocket etc, prec metal or clad case
+9102	Watches, wrist, pocket etc, case not prec nor clad
+9103	Clocks with watch movement, excluding inst panel clock
+9104	Inst panel clock & clock simlr, for vehicle, aircraft, etc
+9105	Clocks, with clock movements other than inst panel etc
+9106	Time of day recording appar etc, with clock etc mt
+9107	Time switches w clock/watch mvmt/synchronous motor
+9108	Watch movements, complete & assembled
+9109	Clock movements, complete & assembled
+9110	Complete watch or clock mvt, incom watch or clock mvt
+9111	Watch cases and parts
+9112	Clock cases & cases for other goods etc, parts
+9113	Watch straps, watch bands and watch bracelets, pts
+9114	Clock or watch parts, nesoi
+9201	Pianos, harpsichords & other keyboard string instr
+9202	String musical instruments nesoi (violins etc)
+9203	Keyboard, pipe organs, etc, with free metal reeds
+9204	Accordions and similar instruments, mouth organs
+9205	Wind musical instruments nesoi
+9206	Percussion musical instruments drums etc
+9207	Musical instruments with sound electric prod etc
+9208	Musical boxes, fairground organs etc, whistles etc
+9209	Parts etc of musical instr, metronomes, t fork etc
+9301	Military weapons ex revolvers pistols lances etc
+9302	Revolvers & pistols, designed to fire live ammo
+9303	Sport shotguns & rifles etc, very pistols etc
+9304	Arms nesoi, other than side arms and similar arms
+9305	Parts & accessories of arms of head 9301 to 9304
+9306	Bombs, grenades etc, cartridges etc and parts
+9307	Swords, cutlasses, bayonets, & siml arms & parts
+9401	Seats (except barber, dental, etc), and parts
+9402	Medical, surgical, dental or veterinary furn etc
+9403	Furniture nesoi and parts thereof
+9404	Mattress supports, articles of bedding etc
+9405	Lamps & lighting fittings & parts etc nesoi
+9406	Prefabricated buildings
+9501	Wheel toys ridden by child, doll stroll, pts & access
+9502	Dolls, representing only human beings, & parts etc
+9503	Toys nesoi, scale models etc, puzzles, parts etc
+9504	Articles for arcade, table or parlor games, parts
+9505	Festive, carnival or other entertainment art, pts
+9506	Articles & equip for sports etc nesoi, pools, pts
+9507	Fishing rods & tackle, nets, decoys etc, parts etc
+9508	Merry-go-rounds, other fairground amusements, parts
+9601	Worked ivory, bone etc & articles thereof
+9602	Veg molded resin etc carving material, nesoi
+9603	Brooms, brushes, mops, feather dusters etc
+9604	Hand sieves and hand riddles
+9605	Travel sets for personal toilet,etc
+9606	Buttons, press studs etc, button mold & blanks etc
+9607	Slide fasteners and parts thereof
+9608	Pens (ball point, soft tip etc), mech pencils etc, pt
+9609	Pencils (lead encased), crayons, leads, chalks etc
+9610	Slates & boards,with writing or drawing surfaces
+9611	Date sealing or numbering stamps, etc for hand oper
+9612	Typewriter etc ribbons, inked or prep, ink pads
+9613	Cigarette lighters & other lighters, parts nesoi
+9614	Smoking pipes & bowls, cigar etc holders, & parts
+9615	Combs, hair-slides etc, hairpins, curling pins etc
+9616	Scent & similar sprayers etc, powder puffs & pads
+9617	Vacuum flasks & vessels w cases, pts ex glass inner
+9618	Tailors' dummies & other mannequins for display
+9701	Paintings, drawings etc by hand as art, collage etc
+9702	Original engravings, prints & lithographs
+9703	Original sculptures and statuary, in any material
+9704	Postage or revenue stamps, firstday covers
+9705	Collectors items of botanic, historical etc interest
+9706	Antiques of an age exceeding one hundred years
+9801	Soil preparation services
+9802	Crop planting, cultivating and protecting
+9803	Crop harvesting, primarily by machine
+9804	Crop preparation serv for market except cotton ginning
+9805	Cotton ginning
+9806	Veterinary services for livestock
+9807	Veterinary services for animal specialties
+9808	Livestock services, except veterinary
+9809	Animal services, except veterinary
+9810	Farm labor contractors and crew leaders
+9811	Farm management services
+9812	Landscape counseling and planning
+9813	General contractor
+9814	Industrial buildings and warehouse
+9815	Highway and street construction
+9816	Bridge, tunnel, and elevated highway
+9817	Water, sewer, pipeline, and communications construction
+9818	Heavy construction
+9819	Plumbing, heating and air conditioning
+9820	Electrical work
+9821	Masonry, stone setting, tile setting & plastering
+9822	Plastering, drywall, and insulation work
+9823	Tile, marble, and mosaic work
+9824	Carpentry
+9825	Roof, siding, and sheet metal work
+9826	Concrete work
+9827	Water well drilling
+9828	Glass and glazing work
+9829	Excavation work
+9830	Wrecking and demolition work
+9831	Special trade contractors
+9832	Local trucking, without storage
+9833	Trucking, except local
+9834	Local trucking with storage
+9835	Courier services, except by air
+9836	Farm product warehousing and storage
+9837	Refrigerated warehousing and storage
+9838	General warehousing and storage
+9839	Special warehousing and storage
+9840	Trucking terminal facilities
+9841	Deep sea foreign freight transportation of freight
+9842	Deep sea domestic freight transportation of freight
+9843	Deep sea passenger transportation
+9844	Ferries
+9845	Marine cargo handling
+9846	Towing and tugboat service
+9847	Air transportation, scheduled
+9848	Air courier services
+9849	Air transportation, nonscheduled
+9850	Travel agencies
+9851	Tour operators
+9852	Freight transportation arrangement, NVOCC, customs brokerage
+9853	Rental of railroad cars/rail transport
+9854	Packing & crating
+9855	Inspecting and fixed facilities
+9856	Electric services
+9857	Natural gas transmission
+9858	Natural gas distribution
+9859	Gas production and/or distribution
+9860	Water supply
+9861	Sewerage systems
+9862	Refuse systems
+9863	Sanitary services
+9864	Steam and air-conditioning supply
+9865	Irrigation systems
+9866	Engineering services
+9867	Architectural services
+9868	Surveying services
+9869	Accounting, auditing, and bookkeeping
+9870	Commercial physical research
+9871	Commercial nonphysical research
+9872	Noncommercial research organizations
+9873	Testing laboratories
+9874	Management services
+9875	Management consulting services
+9876	Public relations services
+9877	Facilities support services
+9878	Business development/consulting, nesoi
+9879	Air, water & solid waste management services
+9880	Land & wildlife conservation
+9881	Recycling
+9882	Energy saving equipment
+9883	Environmental cleanup
+9884	Environmental testing services
+9901	Advertising
+9902	Outdoor advertising services
+9903	Radio, tv, publisher representatives
+9904	Adjustment & collections services
+9905	Credit reporting services
+9906	Direct mail advertising services
+9907	Photocopying & duplicating services
+9908	Commercial photocopy
+9909	Commercial art and graphic design
+9910	Building maintenance services
+9911	Medical equipment rental
+9912	Heavy construction equipment rental
+9913	Equipment rental and leasing, nec
+9914	Employment agencies
+9915	Computer programming services
+9916	Prepackaged software
+9917	Computer integrated systems design
+9918	Data processing and preparation
+9919	Information retrieval services
+9920	Computer facilities management
+9921	Computer rental & leasing
+9922	Computer maintenance & repair
+9923	Computer related services, nec
+9924	Detective & armored car services
+9925	Security systems services
+9926	News syndications
+9927	Photofinishing laboratories
+9928	Offices & clinics of medical doctors
+9929	Offices and clinics of dentists
+9930	Skilled nursing care facilities
+9931	Medical laboratories
+9932	Dental laboratories
+9933	Home health care services
+9934	Kidney dialysis centers
+9935	Special outpatient clinics
+9936	Commercial banks/financing
+9937	Foreign trade & international banks
+9938	Insurance agents, brokers, & service
+9939	Legal services
+9940	Real estate/agents and managers
+9941	Subdividers and developers
+9942	Hotels and motels
+9943	Rooming and boarding houses
+9944	Sporting and recreational camps
+9945	Radio & television repair
+9946	HVAC/refrigeration service and repair
+9947	Electrical repair, nec
+9948	Watch, clock & jewelry repair
+9949	Welding repair
+9950	Automotive maintenance & repair service
+9951	Business translation services
+9952	Technical writing/editing
+9953	Training
+9954	Education/teaching
+9955	Safety & security consulting
+9956	Desktop, graphics and typesetting services
+9957	Video narration
+9958	Assembly and distribution services of gen commodities
+9959	Appraisal services for machinery and equipment
+9960	Export trading/management company
+9961	Food standards and testing
+9962	Inspection/quality control
+9963	Telecommunications installation
+9964	Telecommunications maintenance
+9965	Telecommunications carrier
+9966	List brokers
+9967	Marketing
+9968	Direct marketing, telemarketing services
+9969	Mail order
+9970	Trade shows management
+9971	Trade shows representation
+9972	Travel consultants
+9973	Franchising
+9974	Brokerage/stock market
+9975	Loan services
+9976	Currency exchange
+9977	Forfating, factoring & other int'l finance services
+9978	Inventor
+9980	Industrial design
+9981	Commercial design
+9982	Consumer design
+9983	Product development
+9990	Video production
+9991	Television production
+9992	Radio production
+9993	Music production
+9994	Recording studio
+9995	Animation
+9996	Mixed media
+9997	Commercials-TV/radio
+9998	Publishing
