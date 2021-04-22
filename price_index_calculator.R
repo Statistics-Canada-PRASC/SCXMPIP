@@ -88,9 +88,9 @@ laspeyres_index<-function(base_year){
 
 }
 
-paasches_index<-function(base_year){
+paasche_index<-function(base_year){
     
-    # Laspeyres price index calculated as the share-weighted arithmetic average of price relatives
+    # Paasche price index calculated as the share-weighted harmonic average of price relatives
 
     data<-read.csv("Valid_raw_data.csv",fill = TRUE,header = TRUE)
 
@@ -115,6 +115,7 @@ paasches_index<-function(base_year){
             value_proportion[,paste(year,month,sep="_")]<-ifelse(data$YEAR==year & data$MONTH==month,as.numeric(data$VALUE),NA)
         }
     }
+    
     # Custom carryforward Function
 
     na.locf <- function(x) {
@@ -156,7 +157,7 @@ paasches_index<-function(base_year){
     ratio_median_data[,4:ncol(ratio_median_data)]<-value_proportion/ratio_median_data[,4:ncol(ratio_median_data)]
     ratio_median_data[is.na(ratio_median_data)]<-0
 
-    # Adding the Direct Index
+    # Adding the direct index
     empty<-data.frame(matrix(ncol = 3, nrow = 1))
     empty[,3]<-"Direct Index"
     colnames(empty)<-c("HS","TRADE_TYPE","PARTNER_CODE")
@@ -171,7 +172,7 @@ paasches_index<-function(base_year){
     
     write.csv(
         result,
-        "Paasches_Index_Result.csv",
+        "Paasche_Index_Result.csv",
         row.names=FALSE,
     )
 
