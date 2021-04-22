@@ -16,14 +16,14 @@ weight<-7
 unit_of_measue<-8
 quantity<-9
 
-# Base year of the price index
+# Weight reference period (aka base year) of the price index
 
 base_year<-2015
 
 # Import/Export code
 
-imports<-c("X")
-exports<-c("R","M")
+imports<-c("M")
+exports<-c("X","R")
 
 # If you want to use the program with multiple files set the variable below to TRUE
 
@@ -33,7 +33,7 @@ multiple_files=FALSE
 
 quaterly_monthly=TRUE
 
-# If your file/files already have column names then set the variable below to FALSE
+# If your file(s) already has(ve) column names then set the variable below to FALSE
 
 header=TRUE
 
@@ -63,7 +63,7 @@ header=TRUE
 
 # laspeyres_index(base_year)
 
-# paasches_index(base_year)
+# paasche_index(base_year)
 
 # Section		Chapters	Name
 # I	        01-05	    Live animals; animal products
