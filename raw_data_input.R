@@ -20,6 +20,12 @@ raw_data_input<-function(
   unit_of_measure<-positions[8]
   quantity<-positions[9]
 
+  if(is.na(unit_of_measure)){
+    num_columns=8
+  }else{
+    num_columns=9
+  }
+
   # Raw Data retrieval
 
   if(multiple_files){
@@ -35,7 +41,7 @@ raw_data_input<-function(
 
     for(temp_file in list.files(folder,full.names = TRUE)){
 
-      raw_data<-rbind(raw_data,retrieve_data(temp_file,header))
+      raw_data<-rbind(raw_data,retrieve_data(temp_file,header,num_columns))
 
     }
 
@@ -48,12 +54,25 @@ raw_data_input<-function(
 
     file<-file.choose()
 
-    raw_data<-retrieve_data(file,header)
+    raw_data<-retrieve_data(file,header,num_columns)
 
   }
-  raw_data<-raw_data[,c(month,year,trade_type,hs,partner_code,value,weight,unit_of_measure,quantity)]
 
-  colnames(raw_data)<-c("MONTH","YEAR","TRADE_TYPE","HS","PARTNER_CODE","VALUE","WEIGHT","UNIT_OF_MEASURE","QUANTITY")
+  # Checking if the unit of measure column is included
+
+  if(is.na(unit_of_measure)){
+  raw_data<-raw_data[,c(month,year,trade_type,hs,partner_code,value,weight,quantity)]
+  }else{
+  raw_data<-raw_data[,c(month,year,trade_type,hs,partner_code,value,weight,unit_of_measure,quantity)]
+  }
+
+  if(is.na(unit_of_measure)){
+    colnames(raw_data)<-c("MONTH","YEAR","TRADE_TYPE","HS","PARTNER_CODE","VALUE","WEIGHT","QUANTITY")
+    }else{
+    colnames(raw_data)<-c("MONTH","YEAR","TRADE_TYPE","HS","PARTNER_CODE","VALUE","WEIGHT","UNIT_OF_MEASURE","QUANTITY")
+    }
+
+  
 
   # Validation of raw data
 
@@ -78,6 +97,7 @@ raw_data_input<-function(
   raw_data$OBSERVATIONS<-ifelse(raw_data$YEAR==base_year,1,0)
 
   # Aggregating the data based on the HS6 code, the trade type, the partner country and the year
+
   aggregate_data<-aggregate(
     cbind(VALUE=as.numeric(VALUE),QUANTITY=as.numeric(QUANTITY),WEIGHT=as.numeric(WEIGHT),OBSERVATIONS)
     ~HS+TRADE_TYPE+PARTNER_CODE+YEAR,
@@ -119,11 +139,15 @@ raw_data_input<-function(
         x["YEAR"]==base_year
         ),]
 
+    # Finding the first quartile, the median and the third quartile
+
     quant<-as.data.frame(quantile(table$LOG_UNIT_VALUE, probs = seq(0, 1, 0.25), na.rm = TRUE,))
 
     q1<-quant[2,]
     median<-quant[3,]
     q3<-quant[4,]
+
+    # Calculating the RIQ, IQR and the loqer/upper threshold
 
     RIQ<-(q3-q1)/median
 
@@ -138,6 +162,8 @@ raw_data_input<-function(
     total_value=sum(as.numeric(table$VALUE))
     
     outlier_value=sum(as.numeric(table[which(table$LOG_UNIT_VALUE <=lower_threshold | table$LOG_UNIT_VALUE>=upper_threshold),]$VALUE))
+
+    # Removing any outliers where the outlier value represents more than 10% of the total value or the RIQ is above 2
 
     Remove_aggregate=ifelse(
       (outlier_value/total_value)>0.1 |
@@ -174,9 +200,13 @@ raw_data_input<-function(
 
   write.csv(raw_data[ , !(names(raw_data) %in% c("OBSERVATIONS"))],"Valid_raw_data.csv",row.names=FALSE)
 
+  # Calling the write report function in functions.R
+
   write_report(raw_data,imports_code,exports_code,quaterly_monthly)
 
 }
+
+  # Add data function to append any data to the valid_raw_data.csv file (outlier detection is run again with the new added data)
 
 add_data<-function(positions,header){
 
@@ -190,6 +220,16 @@ add_data<-function(positions,header){
   unit_of_measure<-positions[8]
   quantity<-positions[9]
 
+  # Checking if the UOM column is included
+
+  if(is.na(unit_of_measure)){
+    num_columns=8
+  }else{
+    num_columns=9
+  }
+
+  # Fetching the HS6 codes and the valid raw data file
+
   hs_codes<-read.csv("validation documents/UN Comtrade HS6 list.csv",fill = TRUE,header = TRUE)
 
   old_data<-read.csv("Valid_raw_data.csv",fill = TRUE,header = TRUE)
@@ -198,21 +238,37 @@ add_data<-function(positions,header){
 
   file<-file.choose()
 
-  new_data<-retrieve_data(file,header)
+  new_data<-retrieve_data(file,header,num_columns)
 
-  new_data<-new_data[,c(month,year,trade_type,hs,partner_code,value,weight,unit_of_measure,quantity)]
+  # Ordering and naming the columns based on whether UOM is included
 
+  if(is.na(unit_of_measure)){
+   new_data<-new_data[,c(month,year,trade_type,hs,partner_code,value,weight,quantity)]
+  }else{
+    new_data<-new_data[,c(month,year,trade_type,hs,partner_code,value,weight,unit_of_measure,quantity)]
+  }
+
+  if(is.na(unit_of_measure)){
+  colnames(new_data)<-c("MONTH","YEAR","TRADE_TYPE","HS","PARTNER_CODE","VALUE","WEIGHT","QUANTITY")
+  }else{
   colnames(new_data)<-c("MONTH","YEAR","TRADE_TYPE","HS","PARTNER_CODE","VALUE","WEIGHT","UNIT_OF_MEASURE","QUANTITY")
+  }
+
+  # Removing any invalid HS6 codes
 
   new_data$HS<-substring(new_data$HS,1,6)
 
   new_data<-new_data[new_data$HS %in% codes,]
+
+  # Removing any invalid quantity
 
   valid_quantity<-ifelse(
     is.numeric(new_data$QUANTITY) & new_data$QUANTITY>0, 
     new_data$QUANTITY,
     NA
     )
+
+  # Calculating the log unit value
 
   new_data$UNIT_VALUE<-ifelse(
     !is.na(valid_quantity),
@@ -221,6 +277,8 @@ add_data<-function(positions,header){
   )
 
   new_data$LOG_UNIT_VALUE<-log(new_data$UNIT_VALUE)
+
+  # Combining the old data with the new formatted data
 
   complete_data<-rbind(old_data,new_data)
 
@@ -247,11 +305,15 @@ add_data<-function(positions,header){
         x["YEAR"]==base_year
         ),]
 
+    # Finding the first quartile, the median and the third quartile
+
     quant<-as.data.frame(quantile(table$LOG_UNIT_VALUE, probs = seq(0, 1, 0.25), na.rm = TRUE,))
 
     q1<-quant[2,]
     median<-quant[3,]
     q3<-quant[4,]
+
+    # Calculating the RIQ, IQR and the loqer/upper threshold
 
     RIQ<-(q3-q1)/median
 
@@ -268,6 +330,8 @@ add_data<-function(positions,header){
     
     outlier_value=sum(as.numeric(table[which(table$LOG_UNIT_VALUE <=lower_threshold | table$LOG_UNIT_VALUE>=upper_threshold),]$VALUE))
   
+    # Removing any outliers where the outlier value represents more than 10% of the total value or the RIQ is above 2
+
     Remove_aggregate=ifelse(
       (outlier_value/total_value)>0.1 |
       RIQ>2,
@@ -295,7 +359,10 @@ add_data<-function(positions,header){
     }
 
   # Applying the function above to the raw data
+
   complete_data<-complete_data[which(apply(complete_data,1,Filter_raw_data)),]
+
+  # Writing the complete data to valid_raw_data.csv
 
   write.table(complete_data[ , !(names(complete_data) %in% c("OBSERVATIONS"))], "Valid_raw_data.csv", sep = ",", row.names = FALSE)
 
